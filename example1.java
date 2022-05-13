@@ -5,5 +5,6 @@ public class example1 {
 		  System.out.println("Hello Learner");  
 		 System.out.println("Hello JFS developers111111");
 		 System.out.print("Good to know");
+		 System.out.println();
 	}
 }
